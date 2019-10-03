@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name IPRO_smart_pot)(type Legacy)(uri ${KIPRJMOD}/IPRO_smart_pot.lib)(options "")(descr ""))
+)
